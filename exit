@@ -1,0 +1,23 @@
+[33mcommit 3a376859389bf406ce0629330cf76abf782e4c26[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: gastelumdev <gastelumdev@gmail.com>
+Date:   Thu Apr 18 14:56:03 2024 -0700
+
+    removed env file
+
+[33mcommit d6dffece00991502a7bfab9b135d0a51f534a615[m
+Author: gastelumdev <gastelumdev@gmail.com>
+Date:   Thu Apr 18 14:48:01 2024 -0700
+
+    Optimize hero image
+
+[33mcommit 531f4026a8b2a2d2d4fd831259ae1588a24bca9f[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: gastelumdev <gastelumdev@gmail.com>
+Date:   Thu Apr 18 13:54:07 2024 -0700
+
+    Optimize fonts
+
+[33mcommit 5654b87676f16d7f00f5776885ea4c17bd52bc5f[m
+Author: Omar Gastelum <gastelumdev@gmail.com>
+Date:   Thu Apr 18 13:06:30 2024 -0700
+
+    first commit
